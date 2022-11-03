@@ -6,9 +6,14 @@
     "A"
   ],
   "key": {
-    "F": {
-      "item": "minecraft:flint"
-    },
+    "F": [
+      {
+        "item": "minecraft:flint"
+      },
+      {
+        "item": "byg:therium_shard"
+      }
+    ],
     "S": {
       "tag": "byg:sticks"
     },
@@ -17,6 +22,7 @@
     }
   },
   "result": {
-    "item": "minecraft:arrow"
+    "item": "minecraft:arrow",
+    "count": 4
   }
 }
