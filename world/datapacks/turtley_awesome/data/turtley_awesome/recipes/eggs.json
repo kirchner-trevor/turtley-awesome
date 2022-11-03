@@ -1,0 +1,10 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [{
+    "tag": "c:eggs"
+  }],
+  "result": {
+    "item": "minecraft:egg",
+    "count": 1
+  }
+}

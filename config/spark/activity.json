@@ -1,0 +1,63 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1667067119572,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/RFtugXH0vV"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1667063289721,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/bEm1TLek7S"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1667062349902,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/r8mkHKFY5Z"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Hellfire212",
+      "uniqueId": "b178b46a-3a5f-4609-bb5b-8bebb37bb78d"
+    },
+    "time": 1666891705469,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ZMsF1IdgVt"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1666579147025,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KqSLe2Z2dr"
+    }
+  }
+]
