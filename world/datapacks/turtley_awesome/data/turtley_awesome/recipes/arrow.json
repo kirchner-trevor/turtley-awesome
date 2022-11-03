@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "S",
+    "A"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "S": {
+      "tag": "c:wood_sticks"
+    },
+    "A": {
+      "tag": "c:feathers"
+    }
+  },
+  "result": {
+    "item": "minecraft:arrow"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "result": "origins:orb_of_origin",
+  "experience": 10,
+  "cookingtime": 1200
+}

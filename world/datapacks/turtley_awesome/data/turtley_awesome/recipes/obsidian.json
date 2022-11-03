@@ -1,0 +1,10 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [{
+    "tag": "c:obsidian"
+  }],
+  "result": {
+    "item": "minecraft:obsidian",
+    "count": 1
+  }
+}
