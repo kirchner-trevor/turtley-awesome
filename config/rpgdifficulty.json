@@ -1,6 +1,6 @@
 {
-  "increasingDistance": 1000,
-  "distanceFactor": 0.05,
+  "increasingDistance": 500,
+  "distanceFactor": 0.1,
   "increasingTime": 0,
   "timeFactor": 0.05,
   "heightDistance": 16,
@@ -15,7 +15,7 @@
   "extraXp": true,
   "maxXPFactor": 2.0,
   "startingFactor": 1.0,
-  "startingDistance": 20000,
+  "startingDistance": 5000,
   "startingTime": 0,
   "startingHeight": 64,
   "positiveHeightIncreasion": false,

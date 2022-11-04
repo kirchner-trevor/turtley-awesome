@@ -3,7 +3,10 @@
 
 # Except
 !.gitignore
+!server.properties
 !config
 !world
 world/*
 !world/datapacks
+config/byg/backups
+config/chunky/tasks
