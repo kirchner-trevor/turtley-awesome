@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MMM",
+        "MSM",
+        "MMM"
+    ],
+    "key": {
+        "S": {
+            "item": "spirit:broken_spawner"
+        },
+        "M": {
+            "item": "soulsweapons:moonstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:spawner"
+    }
+}
